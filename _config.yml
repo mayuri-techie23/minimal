@@ -1,6 +1,18 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Mayuri Ladi
+logo: /assets/img/logo.jpg
+description: 
+<p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/mayuriladi-23/">LinkedIn</a> |
+  <a href="https://github.com/mayuri-techie23">GitHub</a>
+  
+  <br>   
+   I'm an IT professional working as Java developer. 
+   I have 6+ years of experience in software design and development. 
+   Currently I'm learning Artificial Intelligence and Machine Learning from Upgrad in collaboration with IIIT-B. 
+  <br>
+  </p>
+
+#show_downloads: true
+#google_analytics:
 theme: jekyll-theme-minimal
